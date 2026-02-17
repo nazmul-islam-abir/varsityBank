@@ -1,0 +1,7 @@
+- Git & GitHub 
+- Software requirements specifications (SRS) Documents 
+- Different Diagrams: Use case , Activity, Sequence, Class Diagram 
+- Software management tool- Jira
+- API testing -postman /Swegger 
+-Unit testing 
+- CI/CD Pipeline - GitHub Actions.
